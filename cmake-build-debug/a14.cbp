@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6"/>
+	<Project>
+		<Option title="a14"/>
+		<Option makefile_is_custom="1"/>
+		<Option compiler="gcc"/>
+		<Option virtualFolders="CMake Files\;"/>
+		<Build>
+			<Target title="all">
+				<Option working_dir="/Users/alexhughes/CLionProjects/a14/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/alexhughes/CLionProjects/a14/cmake-build-debug/Makefile&quot;  VERBOSE=1 all"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/alexhughes/CLionProjects/a14/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/alexhughes/CLionProjects/a14/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/alexhughes/CLionProjects/a14/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="rebuild_cache">
+				<Option working_dir="/Users/alexhughes/CLionProjects/a14/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/alexhughes/CLionProjects/a14/cmake-build-debug/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/alexhughes/CLionProjects/a14/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/alexhughes/CLionProjects/a14/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/alexhughes/CLionProjects/a14/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="edit_cache">
+				<Option working_dir="/Users/alexhughes/CLionProjects/a14/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/alexhughes/CLionProjects/a14/cmake-build-debug/Makefile&quot;  VERBOSE=1 edit_cache"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/alexhughes/CLionProjects/a14/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/alexhughes/CLionProjects/a14/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/alexhughes/CLionProjects/a14/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="a14">
+				<Option output="/Users/alexhughes/CLionProjects/a14/cmake-build-debug/a14" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/alexhughes/CLionProjects/a14/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include/c++/v1"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/10.0.1/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/alexhughes/CLionProjects/a14/cmake-build-debug/Makefile&quot;  VERBOSE=1 a14"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/alexhughes/CLionProjects/a14/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/alexhughes/CLionProjects/a14/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/alexhughes/CLionProjects/a14/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="a14/fast">
+				<Option output="/Users/alexhughes/CLionProjects/a14/cmake-build-debug/a14" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/alexhughes/CLionProjects/a14/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include/c++/v1"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/10.0.1/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/alexhughes/CLionProjects/a14/cmake-build-debug/Makefile&quot;  VERBOSE=1 a14/fast"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/alexhughes/CLionProjects/a14/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/alexhughes/CLionProjects/a14/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/alexhughes/CLionProjects/a14/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+		</Build>
+		<Unit filename="/Users/alexhughes/CLionProjects/a14/Balrog.cpp">
+			<Option target="a14"/>
+		</Unit>
+		<Unit filename="/Users/alexhughes/CLionProjects/a14/Balrog.h">
+			<Option target="a14"/>
+		</Unit>
+		<Unit filename="/Users/alexhughes/CLionProjects/a14/Creature.cpp">
+			<Option target="a14"/>
+		</Unit>
+		<Unit filename="/Users/alexhughes/CLionProjects/a14/Creature.h">
+			<Option target="a14"/>
+		</Unit>
+		<Unit filename="/Users/alexhughes/CLionProjects/a14/Cyberdemon.cpp">
+			<Option target="a14"/>
+		</Unit>
+		<Unit filename="/Users/alexhughes/CLionProjects/a14/Cyberdemon.h">
+			<Option target="a14"/>
+		</Unit>
+		<Unit filename="/Users/alexhughes/CLionProjects/a14/Demon.cpp">
+			<Option target="a14"/>
+		</Unit>
+		<Unit filename="/Users/alexhughes/CLionProjects/a14/Demon.h">
+			<Option target="a14"/>
+		</Unit>
+		<Unit filename="/Users/alexhughes/CLionProjects/a14/Elf.cpp">
+			<Option target="a14"/>
+		</Unit>
+		<Unit filename="/Users/alexhughes/CLionProjects/a14/Elf.h">
+			<Option target="a14"/>
+		</Unit>
+		<Unit filename="/Users/alexhughes/CLionProjects/a14/Human.cpp">
+			<Option target="a14"/>
+		</Unit>
+		<Unit filename="/Users/alexhughes/CLionProjects/a14/Human.h">
+			<Option target="a14"/>
+		</Unit>
+		<Unit filename="/Users/alexhughes/CLionProjects/a14/a45.cpp">
+			<Option target="a14"/>
+		</Unit>
+		<Unit filename="/Users/alexhughes/CLionProjects/a14/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\"/>
+		</Unit>
+	</Project>
+</CodeBlocks_project_file>

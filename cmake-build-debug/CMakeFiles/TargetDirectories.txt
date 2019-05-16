@@ -1,0 +1,3 @@
+/Users/alexhughes/CLionProjects/a14/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/Users/alexhughes/CLionProjects/a14/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/alexhughes/CLionProjects/a14/cmake-build-debug/CMakeFiles/a14.dir
